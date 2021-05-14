@@ -17,7 +17,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('F:/Masai/chaithanya_portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"ArjunKPrasad","short_name":"Arjun","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"a8c063dc92c606022b37d50088395c26"},
+      options: {"plugins":[],"name":"ChaithanyaGollapalli","short_name":"Chaithanya","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"a8c063dc92c606022b37d50088395c26"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('F:/Masai/chaithanya_portfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),

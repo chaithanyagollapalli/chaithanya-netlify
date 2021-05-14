@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Chaithanya Guptha Gollapalli',
     description:
-      'Chaithanya Guptha Gollapalli is a software engineer who specializes in building full stack web applications.',
+      'Chaithanya Guptha Gollapalli is a software engineer who specializes in building android applications.',
     siteUrl: 'https://chaithanyagollapalli.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@arjun1237_kp',
+    twitterUsername: '@chaithanyagg',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ArjunKPrasad',
-        short_name: 'Arjun',
+        name: 'ChaithanyaGollapalli',
+        short_name: 'Chaithanya',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
