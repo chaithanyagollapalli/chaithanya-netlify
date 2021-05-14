@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://chaithanyagollapalli.github.io/sitemap.xml
+Host: https://chaithanyagollapalli.github.io
